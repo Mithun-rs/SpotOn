@@ -76,3 +76,5 @@ yarn-error.log
 
 
 ParkNow-Staff/
+dist/
+admin-web/dist/
